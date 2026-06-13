@@ -17,7 +17,6 @@ La página presenta metas académicas, habilidades por desarrollar, áreas tecno
 
 ## Estructura de carpetas
 
-```text
 PracticaBootstrap/
 │
 ├── index.html
