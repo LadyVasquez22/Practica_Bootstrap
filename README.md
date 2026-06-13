@@ -16,7 +16,7 @@ La página presenta metas académicas, habilidades por desarrollar, áreas tecno
 - GitHub
 
 ## Estructura de carpetas
-
+```text
 PracticaBootstrap/
 │
 ├── index.html
@@ -41,7 +41,7 @@ PracticaBootstrap/
 │
 └── README.md
 
-
+```text
 ##Capturas de pantalla
 
 Las capturas de pantalla de la vista móvil, vista escritorio y componentes principales se encuentran incluidas en el informe PDF de la práctica.
