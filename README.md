@@ -61,6 +61,6 @@ pages/cto/proyeccion.html
 
 ## Autor
 
-Nombre: Lady Arketh Vasquez Muñoz
+Nombre: Lady Arleth Vasquez Muñoz
 Asignatura: Fundamentos de Sistemas Web
 Institución: Universidad de las Fuerzas Armadas ESPE
